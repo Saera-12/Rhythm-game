@@ -135,7 +135,7 @@ GameObject:
   - component: {fileID: 104711132}
   - component: {fileID: 104711131}
   m_Layer: 5
-  m_Name: Image
+  m_Name: title image
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -258,8 +258,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: "\u4F5C\u66F2\u8005\u540D"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 2fc3226163703774a86aaf013ea94de9, type: 2}
-  m_sharedMaterial: {fileID: -7786892333198751292, guid: 2fc3226163703774a86aaf013ea94de9, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -702,8 +702,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: "\u66F2\u540D"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 2fc3226163703774a86aaf013ea94de9, type: 2}
-  m_sharedMaterial: {fileID: -7786892333198751292, guid: 2fc3226163703774a86aaf013ea94de9, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
