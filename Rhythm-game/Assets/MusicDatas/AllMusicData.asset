@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83f7d5dbc7bbc4445ad2d0a3ddc781fd, type: 3}
+  m_Name: AllMusicData
+  m_EditorClassIdentifier: 
+  musics:
+  - Background: {fileID: 21300000, guid: acc36a5ee7c438d4aa81e5f30c76a97e, type: 3}
+    MusicTitle: Twilight Session
+    Composer: MFP
+    Clip: {fileID: 8300000, guid: d0bc3bc4dec6a054b9524015b165681f, type: 3}
+  - Background: {fileID: 21300000, guid: acc36a5ee7c438d4aa81e5f30c76a97e, type: 3}
+    MusicTitle: "\u8B0E"
+    Composer: "\u30AB\u30D4\u30D0\u30E9\u3063\u5B50"
+    Clip: {fileID: 8300000, guid: f73745712a4c3bc4a9eaf21f9490e40d, type: 3}
